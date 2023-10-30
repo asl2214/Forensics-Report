@@ -28,11 +28,9 @@ Tracy was an accomplice of the conspiracies associated with the theft of stamps 
 
 Digitech used Autopsy, an open-source forensics platform, on a virtual Kali Linux machine to analyze a bit stream image of Tracy’s iphone data. Google Maps was used to discover the locations. Nano and notepad was used as a text editor and analysis on the Kali Linux terminal. A Coco converter was used to specify the times for each piece of evidence related to communciation.
 
-# 
+# Details of Tracy’s iPhone
 
-# Details of Tracy’s iPhone![](media/34a211ad857f98824307a45a210b2223.png)
-
-# 
+![](Images/Tracy's%20iphone%20details.png)
 
 # Evidence to Establish Personas
 

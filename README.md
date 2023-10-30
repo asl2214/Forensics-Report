@@ -34,7 +34,9 @@ Digitech used Autopsy, an open-source forensics platform, on a virtual Kali Linu
 
 # Evidence to Establish Personas
 
-This section establishes aliases, phone numbers, emails addresses associated with each person, and relationships between each individual.
+This section establishes aliases, phone numbers, email addresses associated with each person, and relationships between each individual.
+
+$~$
 
 Tracy:
 
@@ -46,6 +48,8 @@ Work Email: tracy.sumtwelve@nationalgallerydc.org
 
 Relationship: Accused
 
+$~$
+
 Pat:
 
 Phone Number: 571-308-3236
@@ -53,6 +57,8 @@ Phone Number: 571-308-3236
 Email: [patsumtwelve@gmail.com](mailto:patsumtwelve@gmail.com), perrypatsum@yahoo.com
 
 Relationship: Tracy’s Brother
+
+$~$
 
 Terry:
 
@@ -62,6 +68,8 @@ Email: unknown
 
 Relationship: Daughter of Tracy and Joe
 
+$~$
+
 Joe:
 
 Phone Number: unknown
@@ -70,13 +78,17 @@ Email: [joe.sum.twelve@gmail.com](mailto:joe.sum.twelve@gmail.com)
 
 Relationship: Tracy’s ex-husband
 
+$~$
+
 Carry:
 
 Phone Number: 202-725-2124
 
 Email: [carrysum2012@yahoo.com](mailto:carrysum2012@yahoo.com)
 
-Relationship: Tracy’s accquaintance and accomplice
+Relationship: Tracy’s acquaintance and accomplice
+
+$~$
 
 Tracy was in contact with Terry, Carry, and Pat very often. Tracy exchanged several suspicious emails and messages with Carry and Pat. Tracy and her brother have been in contact with another conspirator named “King kthings” with an email “[throne1966@hotmail.com](mailto:throne1966@hotmail.com)”. Joe’s information is mostly unavailable from the data collected.
 
